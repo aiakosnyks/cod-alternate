@@ -1,0 +1,6 @@
+
+git init cod-alternate
+
+git remote add origin https://github.com/aiakosnyks/cod-alternate.git
+
+
